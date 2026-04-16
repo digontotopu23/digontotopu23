@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1B2&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Full+Stack+Developer;MERN+Stack+Expert)](https://git.io/typing-svg)
 
 
- --------------------------------------------------------------------------------------------
+ 
 <h1 align="center">Hi 👋, I'm Digonto Roy TOPU</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
